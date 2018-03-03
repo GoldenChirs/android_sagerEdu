@@ -1,0 +1,4 @@
+#Fri Feb 16 20:14:41 PST 2018
+base.0=C\:\\Users\\Chris\\Desktop\\Sandbox\\SagerEducation\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+renamed.0=classes.dex
+file.0=C\:\\Users\\Chris\\Desktop\\Sandbox\\SagerEducation\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9\\classes.dex

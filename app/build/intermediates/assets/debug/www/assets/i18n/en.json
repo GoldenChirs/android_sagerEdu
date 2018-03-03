@@ -1,0 +1,21 @@
+{
+    
+    "Home"  : "Home",
+    "Class" : "Class",
+    "My Profile" : "My Profile",
+
+    "Class Schedule" : "Class Schedule",
+    "Class Homework" : "Class Homework",
+    "Class Performance" : "Class Performance",
+    "Class Assets" : "Class Assets",
+    "view class schedule" : "view class schedule",
+    "view class homework" : "view class homework",
+    "view class performance" : "view class performance",
+    "view class assets" : "view class assets",
+
+    "Language" : "Language",
+    "Logout"   : "Logout",
+    "Username" : "Username",
+    "Password" : "Password",
+    "SIGN IN" : "SIGN IN"
+}

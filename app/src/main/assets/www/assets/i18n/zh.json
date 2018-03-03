@@ -1,0 +1,20 @@
+{
+    "Home"  : "主页",
+    "Class" : "课程",
+    "My Profile" : "个人信息",
+
+
+    "Class Schedule" : "课程安排",
+    "Class Homework" : "课程作业",
+    "Class Performance" : "课程表现",
+    "Class Assets" :   "课程资源",
+    "view class schedule" : "查看课程安排",
+    "view class homework" : "查看课程作业",
+    "view class performance" : "查看课程表现",
+    "view class assets" : "查看课程资源",
+    "Language" : "语言",
+    "Username" : "用户名",
+    "Password" : "密码",
+    "SIGN IN" : "登陆"
+
+}
